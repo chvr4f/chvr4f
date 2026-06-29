@@ -17,7 +17,7 @@
 - 🔭 Currently building **[Whispiy](https://whispiy.com)** — AI that turns any meeting into transcripts, summaries, decisions & action items
 - 🧩 I architect and ship full products end-to-end: backend, frontend, infra, payments, growth
 - ⚙️ Comfortable across a .NET microservices stack, an Angular frontend, and the DevOps to run it
-- 📫 Reach me: **mim704967@gmail.com**
+- 📫 Reach me: **xrafdev@gmail.com**
 - 🌍 Based in Morocco
 
 ---
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chvr4f&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=chvr4f&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://whispiy.com"><img src="https://img.shields.io/badge/Website-whispiy.com-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:mim704967@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:xrafdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <!-- <a href="https://x.com/YOURHANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> -->
   <!-- <a href="https://linkedin.com/in/YOURHANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
 </p>
