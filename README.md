@@ -39,32 +39,17 @@
 
 ### 🌟 Featured project
 
-<a href="https://github.com/chvr4f/Whispiy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chvr4f&repo=Whispiy&theme=tokyonight&hide_border=true" alt="Whispiy" />
-</a>
+#### 🎙️ [Whispiy](https://github.com/chvr4f/Whispiy) · [whispiy.com](https://whispiy.com)
 
-> **Whispiy** — an AI meeting assistant (.NET 9 microservices + Angular). Speaker-aware transcription, AI summaries & action items, live notetaker bot, Slack/Notion integrations, Paddle billing — running in production at [whispiy.com](https://whispiy.com).
+> An AI meeting assistant (.NET 9 microservices + Angular). Speaker-aware transcription, AI summaries & action items, a live notetaker bot, Slack/Notion integrations, and Paddle billing — running in production.
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chvr4f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chvr4f&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
+### 🔥 Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=chvr4f&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chvr4f&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-
----
-
-### 🐍 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chvr4f/chvr4f/output/github-snake-dark.svg" />
@@ -77,10 +62,10 @@
 ### 🔗 Connect
 
 <p align="center">
-  <a href="https://whispiy.com"><img src="https://img.shields.io/badge/Website-whispiy.com-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:xrafdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://x.com/YOURHANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> -->
-  <!-- <a href="https://linkedin.com/in/YOURHANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://whispiy.com"><img src="https://img.shields.io/badge/Website-whispiy.com-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:xrafdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://x.com/YOURHANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
+  <!-- <a href="https://linkedin.com/in/YOURHANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C084FC,50:818CF8,100:0EA5E9&section=footer" alt="footer" />
